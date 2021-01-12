@@ -1,7 +1,4 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+##Fred's Blog
 
-![Image of fast.ai logo](images/logo.png)
+Welcome to my blog. After I teach myself something, I will try to create a blog post explaining to a relative noob the concept or tool. After learning something, the tricky parts are evident, but this fades with experience. I will try to emphasize what originally stumped me. Personally, this blog serves the same function as a homework assignment for a class: forced recall and accuracy. Other personal benefits include, finding gaps in my own knowledge by walking through every step and practice writing clearly and concisely. 
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
